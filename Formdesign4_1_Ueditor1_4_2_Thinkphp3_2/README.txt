@@ -1,34 +1,36 @@
-��װ��
-ע�⣺��wwwrootΪ��Ŀ¼
-1.���½����ݿ�
-2.����       ./db/leipi_formdesign.sql
-3.�޸����ã� Application\Common\Conf\config.php
+官网我调试运行了一下基本能运行。改了一下比较严重的错误。我回将他升级到TP5
+
+安装：
+注意：以wwwroot为根目录
+1.先新建数据库
+2.导入       ./db/leipi_formdesign.sql
+3.修改配置： Application\Common\Conf\config.php
 
 
-##------------Ŀ¼�ṹ------------------------------------------------------
+##------------目录结构------------------------------------------------------
 
-FormdesignV4_1_Ueditor1_4_x_Thinkphp3_2  WEB����Ŀ¼
-    ����Application
-        ����Common
-            ����Conf
-                ����config.php  ���ݿ����� �����ļ�
-    ����db
-      ����leipi_formdesign.sql  ���ݿ�sql�ļ�
-    ����ThinkPHP  ���
-    ����wwwroot ��վ��Ŀ¼
-        ����Public/js/ueditor
-            ����formdesign  ###���������Ŀ¼###
-                ����leipi.formdesign.v4.js   ���������
-                ���� ....
+FormdesignV4_1_Ueditor1_4_x_Thinkphp3_2  WEB部署目录
+    ├─Application
+        ├─Common
+            ├─Conf
+                └─config.php  数据库连接 配置文件
+    ├─db
+      └─leipi_formdesign.sql  数据库sql文件
+    ├─ThinkPHP  框架
+    └─wwwroot 网站根目录
+        ├─Public/js/ueditor
+            └─formdesign  ###流程设计器目录###
+                ├─leipi.formdesign.v4.js   流程设计器
+                ├─ ....
 ##------------------------------------------------------------------
 
 
-���ǻ�������ʲô��
-����ȫ������Ŀ������������������ http://www.leipi.org
+我们还分享了什么？
+我们全部的项目分享都发布在雷劈网 http://www.leipi.org
 
 
-������������أ�
-Demo����
+表单设计器下载：
+Demo下载
 http://formdesign.leipi.org/downloads.html
-��չ����
+扩展下载
 http://formdesign.leipi.org/downloads.html
