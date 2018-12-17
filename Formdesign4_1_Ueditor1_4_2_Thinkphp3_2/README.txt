@@ -1,34 +1,35 @@
-°²×°£º
-×¢Òâ£ºÒÔwwwrootÎª¸ùÄ¿Â¼
-1.ÏÈĞÂ½¨Êı¾İ¿â
-2.µ¼Èë       ./db/leipi_formdesign.sql
-3.ĞŞ¸ÄÅäÖÃ£º Application\Common\Conf\config.php
+åŸæ¥çš„æœ‰äº›é”™è¯¯å·²ä¿®æ­£ï¼Œæˆ‘å°†ç»§ç»­å®ŒæˆTP5çš„å¼€å‘
+å®‰è£…ï¼š
+æ³¨æ„ï¼šä»¥wwwrootä¸ºæ ¹ç›®å½•
+1.å…ˆæ–°å»ºæ•°æ®åº“
+2.å¯¼å…¥       ./db/leipi_formdesign.sql
+3.ä¿®æ”¹é…ç½®ï¼š Application\Common\Conf\config.php
 
 
-##------------Ä¿Â¼½á¹¹------------------------------------------------------
+##------------ç›®å½•ç»“æ„------------------------------------------------------
 
-FormdesignV4_1_Ueditor1_4_x_Thinkphp3_2  WEB²¿ÊğÄ¿Â¼
-    ©À©¤Application
-        ©À©¤Common
-            ©À©¤Conf
-                ©¸©¤config.php  Êı¾İ¿âÁ¬½Ó ÅäÖÃÎÄ¼ş
-    ©À©¤db
-      ©¸©¤leipi_formdesign.sql  Êı¾İ¿âsqlÎÄ¼ş
-    ©À©¤ThinkPHP  ¿ò¼Ü
-    ©¸©¤wwwroot ÍøÕ¾¸ùÄ¿Â¼
-        ©À©¤Public/js/ueditor
-            ©¸©¤formdesign  ###Á÷³ÌÉè¼ÆÆ÷Ä¿Â¼###
-                ©À©¤leipi.formdesign.v4.js   Á÷³ÌÉè¼ÆÆ÷
-                ©À©¤ ....
+FormdesignV4_1_Ueditor1_4_x_Thinkphp3_2  WEBéƒ¨ç½²ç›®å½•
+    â”œâ”€Application
+        â”œâ”€Common
+            â”œâ”€Conf
+                â””â”€config.php  æ•°æ®åº“è¿æ¥ é…ç½®æ–‡ä»¶
+    â”œâ”€db
+      â””â”€leipi_formdesign.sql  æ•°æ®åº“sqlæ–‡ä»¶
+    â”œâ”€ThinkPHP  æ¡†æ¶
+    â””â”€wwwroot ç½‘ç«™æ ¹ç›®å½•
+        â”œâ”€Public/js/ueditor
+            â””â”€formdesign  ###æµç¨‹è®¾è®¡å™¨ç›®å½•###
+                â”œâ”€leipi.formdesign.v4.js   æµç¨‹è®¾è®¡å™¨
+                â”œâ”€ ....
 ##------------------------------------------------------------------
 
 
-ÎÒÃÇ»¹·ÖÏíÁËÊ²Ã´£¿
-ÎÒÃÇÈ«²¿µÄÏîÄ¿·ÖÏí¶¼·¢²¼ÔÚÀ×ÅüÍø http://www.leipi.org
+æˆ‘ä»¬è¿˜åˆ†äº«äº†ä»€ä¹ˆï¼Ÿ
+æˆ‘ä»¬å…¨éƒ¨çš„é¡¹ç›®åˆ†äº«éƒ½å‘å¸ƒåœ¨é›·åŠˆç½‘ http://www.leipi.org
 
 
-±íµ¥Éè¼ÆÆ÷ÏÂÔØ£º
-DemoÏÂÔØ
+è¡¨å•è®¾è®¡å™¨ä¸‹è½½ï¼š
+Demoä¸‹è½½
 http://formdesign.leipi.org/downloads.html
-À©Õ¹ÏÂÔØ
+æ‰©å±•ä¸‹è½½
 http://formdesign.leipi.org/downloads.html
